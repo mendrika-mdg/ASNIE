@@ -28,7 +28,6 @@ This file documents the locations, temporal coverage, and known caveats for data
 ## Lightning Data
 - Confirmed overlap period for CRR, RoA, and lightning: 2024-07-15 to present.
 - DWD-TS Lightning: downloaded for August 2024 to present; currently being copied to JASMIN following GWS path changes; expected to reside under `/gws/ssde/j25b/swift/` (final path to be confirmed).
-- EUMETSAT Lightning (optional): available via the EUMETSAT Data Store (EUMDAC); standard products use longer accumulation periods than native 30-second data; native-resolution data may require processing via the Data Tailor.
 
 ## MTG LI (Lightning Imager)
 - Status: full pan-African 15-minute accumulated dataset not yet produced; partial datasets exist for comparison studies; full processing planned.
