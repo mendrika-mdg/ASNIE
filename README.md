@@ -1,9 +1,5 @@
 # ASNIE — Data Availability and Paths
 
-This file documents the locations, temporal coverage, and known caveats for datasets used in the ASNIE project. All paths refer to JASMIN / SWIFT unless stated otherwise.
-
----
-
 ## CRR (Convective Rain Rate)
 
 ### Object Store (Near-Real-Time)
@@ -18,7 +14,7 @@ This file documents the locations, temporal coverage, and known caveats for data
 
 ---
 
-## RoA (Rainfall over Africa)
+## RoA (Rain over Africa)
 
 ### SWIFT GWS — CEH RoA Archive
 - Path: `/gws/ssde/j25b/swift/RoA`
@@ -32,7 +28,7 @@ This file documents the locations, temporal coverage, and known caveats for data
 
 ---
 
-## DWD-TS (Thunderstorm Product)
+## DWD-TS (Thunderstorm Severity)
 
 ### SWIFT GWS — Leeds WISER-EWSA Archive
 - Path: `/gws/ssde/j25b/swift/WISER-EWSA/DWD_AI_TS/data`
@@ -57,14 +53,14 @@ This file documents the locations, temporal coverage, and known caveats for data
 
 ## Convective Cores (Wavelet-based)
 
-### Core Climatology Archive
+### Core Archive
 - Path: `/gws/nopw/j04/cocoon/SSA_domain/ch9_wavelet`
 - Coverage: 2004 to 2024
 - Notes: Full historical MSG-based convective core dataset used for core detection and training.
 
 ### Near-Real-Time Cores
 - Path: `/gws/ssde/j25b/swift/rt_cores`
-- Coverage: 2024 to present
+- Coverage: October 2024 to present
 - Notes: Real-time extension of the core detection pipeline.
 
 ---
