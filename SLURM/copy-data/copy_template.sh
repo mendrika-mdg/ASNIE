@@ -1,7 +1,7 @@
 #!/bin/bash
 #SBATCH --job-name=copy-roa
 #SBATCH --time=04:00:00
-#SBATCH --mem=4G
+#SBATCH --mem=64G
 #SBATCH --qos=standard
 #SBATCH --partition=standard
 #SBATCH --account=wiser-ewsa

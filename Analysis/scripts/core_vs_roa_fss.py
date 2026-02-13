@@ -61,12 +61,8 @@ extent = (
 core_tag = f"thr_{threshold_core}".replace(".", "p")
 roa_tag  = f"thr_{threshold_roa}".replace(".", "p")
 
-output_core = f"/work/scratch-nopw2/mendrika/ASNIE/updated/core/{core_tag}"
-output_roa  = f"/work/scratch-nopw2/mendrika/ASNIE/updated/roa/{roa_tag}"
-
-# Create output directories if they do not exist
-os.makedirs(output_core, exist_ok=True)
-os.makedirs(output_roa, exist_ok=True)
+output_core = f"/work/scratch-nopw2/mendrika/ASNIE/core/{core_tag}"
+output_roa  = f"/work/scratch-nopw2/mendrika/ASNIE/roa/{roa_tag}"
 
 times = generate_time_steps(start, end)
 

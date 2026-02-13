@@ -1,7 +1,13 @@
 #!/bin/bash
 
-THRESH_CORES=(20 50)
-THRESH_ROAS=(0.6617 1.0261 1.6357 2.9205)
+# 90th percentile
+CORE_90=223.5
+ROA_90=1.6357
+
+# 95th percentile
+CORE_95=260.1
+ROA_95=2.9205
+
 MIN_PIXELS=10
 
 for year in 2020 2021 2022 2023 2024; do
@@ -15,18 +21,21 @@ for year in 2020 2021 2022 2023 2024; do
       end="${year}${month}312345"
     fi
 
-    for THRESH_CORE in "${THRESH_CORES[@]}"; do
-      for THRESH_ROA in "${THRESH_ROAS[@]}"; do
+    # 90th run
+    sbatch /home/users/mendrika/ASNIE/SLURM/create-database/create-object-database.sh \
+      $start \
+      $end \
+      $CORE_90 \
+      $ROA_90 \
+      $MIN_PIXELS
 
-        sbatch /home/users/mendrika/ASNIE/SLURM/create-database/create-object-database.sh \
-          $start \
-          $end \
-          $THRESH_CORE \
-          $THRESH_ROA \
-          $MIN_PIXELS
-
-      done
-    done
+    # 95th run
+    sbatch /home/users/mendrika/ASNIE/SLURM/create-database/create-object-database.sh \
+      $start \
+      $end \
+      $CORE_95 \
+      $ROA_95 \
+      $MIN_PIXELS
 
   done
 done

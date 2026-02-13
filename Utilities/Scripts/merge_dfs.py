@@ -55,7 +55,11 @@ for i, f in enumerate(files):
 
 df_all = pd.concat(dfs, ignore_index=True)
 
-output_file = base_path / f"{product}_{thr_tag}.parquet"
+# Create parquet output directory
+output_dir = base_path / "parquet"
+output_dir.mkdir(parents=True, exist_ok=True)
+
+output_file = output_dir / f"{product}_{thr_tag}.parquet"
 
 df_all.to_parquet(output_file, index=False)
 
