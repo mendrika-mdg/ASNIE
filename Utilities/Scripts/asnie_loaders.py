@@ -24,7 +24,7 @@ def load_core(t):
             raise FileNotFoundError(f"Core file not found: {path}")
 
         with Dataset(path) as ds:
-            cores = ds["cores"][0]
+            cores = ds["tir"][0]
 
         geo = np.load("/gws/nopw/j04/cocoon/SSA_domain/lat_lon_2268_2080.npz")
         lons = geo["lon"]
@@ -52,6 +52,7 @@ def load_core(t):
 
     cores = np.asarray(cores)
     cores = np.ma.filled(cores, np.nan)
+    cores = -cores
 
     return cores, lats, lons
 
@@ -241,8 +242,8 @@ def load_crr(t):
 
     with Dataset(file_path, mode="r") as ds:
 
-        lat = ds.variables["lat"][:]
-        lon = ds.variables["lon"][:]
+        lats = ds.variables["lat"][:]
+        lons = ds.variables["lon"][:]
 
         var = ds.variables["crr_intensity"]
         crr_raw = var[:]
@@ -253,12 +254,10 @@ def load_crr(t):
         crr = crr_raw * scale + offset
         crr = np.ma.filled(crr, np.nan)
 
-    lons, lats = np.meshgrid(lon, lat)
-
     return crr, lats, lons
 
 
-# MTG Lightning
+# MTG Lightningup
 
 def load_li(t):
 
@@ -287,12 +286,10 @@ def load_li(t):
 
     with Dataset(file_path) as ds:
 
-        lat = ds.variables["latitude"][:]
-        lon = ds.variables["longitude"][:]
+        lats = ds.variables["latitude"][:]   # 2D
+        lons = ds.variables["longitude"][:]  # 2D
 
         flash = ds.variables["flash_accumulation"][:]
         flash = np.ma.filled(flash, np.nan)
-
-    lons, lats = np.meshgrid(lon, lat)
 
     return flash, lats, lons

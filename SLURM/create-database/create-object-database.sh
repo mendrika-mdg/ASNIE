@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --job-name=core-vs-roa
+#SBATCH --job-name=extract-objects
 #SBATCH --time=24:00:00
 #SBATCH --mem=64G
 #SBATCH --qos=standard
@@ -10,27 +10,27 @@
 
 module load jaspy/3.11
 
-# Expected arguments:
-# 1: start YYYYMMDDHHMM
-# 2: end YYYYMMDDHHMM
-# 3: threshold_core
-# 4: threshold_roa
+# Expected arguments
+# 1: PRODUCT (core, rdt, ts, roa, crr, li)
+# 2: start YYYYMMDDHHMM
+# 3: end YYYYMMDDHHMM
+# 4: threshold
 # 5: min_pixels
 
 if [ "$#" -ne 5 ]; then
-    echo "Usage: sbatch script.sh START END THRESH_CORE THRESH_ROA MIN_PIXELS"
+    echo "Usage: sbatch extract_objects.sh PRODUCT START END THRESHOLD MIN_PIXELS"
     exit 1
 fi
 
-start=$1
-end=$2
-threshold_core=$3
-threshold_roa=$4
+product=$1
+start=$2
+end=$3
+threshold=$4
 min_pixels=$5
 
-python /home/users/mendrika/ASNIE/Analysis/scripts/core_vs_roa.py \
+python /home/users/mendrika/ASNIE/Analysis/scripts/object_extraction.py \
+    $product \
     $start \
     $end \
-    $threshold_core \
-    $threshold_roa \
+    $threshold \
     $min_pixels

@@ -272,3 +272,4 @@ def compute_fss(pred, obs, window):
     num = np.mean((f_pred - f_obs) ** 2)
     den = np.mean(f_pred ** 2 + f_obs ** 2)
     return 1 - num / (den + 1e-8)
+

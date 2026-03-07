@@ -13,9 +13,6 @@ product = sys.argv[1].strip().lower()
 thr_in = sys.argv[2].strip()
 base_path = Path(sys.argv[3])
 
-if product not in {"core", "roa"}:
-    raise ValueError("PRODUCT must be 'core' or 'roa'")
-
 # Normalise threshold tag to match folder naming
 if thr_in.startswith("thr_"):
     thr_val = thr_in[4:]

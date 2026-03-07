@@ -61,8 +61,8 @@ extent = (
 core_tag = f"thr_{threshold_core}".replace(".", "p")
 roa_tag  = f"thr_{threshold_roa}".replace(".", "p")
 
-output_core = f"/work/scratch-nopw2/mendrika/ASNIE/updated/core/{core_tag}"
-output_roa  = f"/work/scratch-nopw2/mendrika/ASNIE/updated/roa/{roa_tag}"
+output_core = f"/work/scratch-nopw2/mendrika/ASNIE/final-database/RoA/core/{core_tag}"
+output_roa  = f"/work/scratch-nopw2/mendrika/ASNIE/final-database/RoA/roa/{roa_tag}"
 
 # Create output directories if they do not exist
 os.makedirs(output_core, exist_ok=True)

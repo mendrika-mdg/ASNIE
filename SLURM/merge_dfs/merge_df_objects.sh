@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --job-name=consolidate
+#SBATCH --job-name=parquet-creation
 #SBATCH --time=04:00:00
 #SBATCH --mem=32G
 #SBATCH --qos=standard
@@ -10,20 +10,24 @@
 
 module load jaspy/3.11
 
-# Expect 3 arguments
-if [ "$#" -ne 3 ]; then
-  echo "Usage: sbatch consolidate.sh PRODUCT THRESH_TAG BASE_PATH"
+# Expect 4 arguments
+if [ "$#" -ne 4 ]; then
+  echo "Usage: sbatch consolidate.sh PRODUCT YEAR THRESH_TAG BASE_PATH"
   exit 1
 fi
 
 PRODUCT=$1
-THRESH=$2
-BASE_PATH=$3
+YEAR=$2
+THRESH=$3
+BASE_PATH=$4
 
-echo "Merging $PRODUCT with threshold $THRESH"
+echo "Merging product: $PRODUCT"
+echo "Year: $YEAR"
+echo "Threshold: $THRESH"
 echo "Base path: $BASE_PATH"
 
-python /home/users/mendrika/ASNIE/Utilities/Scripts/merge_dfs.py \
+python /home/users/mendrika/ASNIE/Utilities/Scripts/merge_dfs_updated.py \
     $PRODUCT \
+    $YEAR \
     $THRESH \
     $BASE_PATH
