@@ -5,9 +5,31 @@ from netCDF4 import Dataset, num2date
 from datetime import datetime, timedelta
 
 # Convective core
+def load_core_wp(t):
+
+    year   = int(t["year"])
+    month  = f"{int(t['month']):02d}"
+    day    = f"{int(t['day']):02d}"
+    hour   = f"{int(t['hour']):02d}"
+    minute = f"{int(t['minute']):02d}"
+
+    base = f"/gws/ssde/j25b/cocoon/SSA_domain/ch9_wavelet/{year}/{month}"
+    fname = f"{year}{month}{day}{hour}{minute}.nc"
+    path = os.path.join(base, fname)
+
+    if not os.path.exists(path):
+        raise FileNotFoundError(f"Core file not found: {path}")
+
+    with Dataset(path) as ds:
+        cores = ds["cores"][0]
+
+    cores = np.asarray(cores)
+    cores = np.ma.filled(cores, np.nan)
+
+    return cores
 
 def load_core(t):
-
+    
     year   = int(t["year"])
     month  = f"{int(t['month']):02d}"
     day    = f"{int(t['day']):02d}"
@@ -16,7 +38,7 @@ def load_core(t):
 
     if year <= 2024:
 
-        base = f"/gws/nopw/j04/cocoon/SSA_domain/ch9_wavelet/{year}/{month}"
+        base = f"/gws/ssde/j25b/cocoon/SSA_domain/ch9_wavelet/{year}/{month}"
         fname = f"{year}{month}{day}{hour}{minute}.nc"
         path = os.path.join(base, fname)
 
@@ -67,16 +89,30 @@ def load_rdt(t, domain="WestAfrica"):
     hour   = f"{int(t['hour']):02d}"
     minute = f"{int(t['minute']):02d}"
 
-    base = Path("/gws/ssde/j25b/swift/earajr/NWCSAF_archive/netcdf_2018/RDT")
-
     date = f"{year}{month}{day}"
     time = f"{hour}{minute}00"
 
-    fname = f"S_NWC_RDT-CW_MSG4_{domain}-VISIR_{date}T{time}Z.nc"
-    path = base / date / fname
+    fname1 = f"S_NWC_RDT-CW_MSG4_{domain}-VISIR_{date}T{time}Z.nc"
+    path1 = (
+        Path("/gws/ssde/j25b/swift/earajr/NWCSAF_archive/netcdf_2018/RDT")
+        / date
+        / fname1
+    )
 
-    if not path.exists():
-        raise FileNotFoundError(f"RDT file not found: {path}")
+    fname2 = f"S_NWC_RDT-CW_MSG3_Africa-VISIR_{date}T{time}Z.nc"
+    path2 = (
+        Path("/gws/ssde/j25b/swift/WISER-EWSA/Leeds_RDT/data")
+        / date
+        / "RDT"
+        / fname2
+    )
+
+    if path1.exists():
+        path = path1
+    elif path2.exists():
+        path = path2
+    else:
+        raise FileNotFoundError(f"RDT file not found in either archive: {path1} or {path2}")
 
     with Dataset(path) as ds:
 
@@ -87,6 +123,7 @@ def load_rdt(t, domain="WestAfrica"):
     cat = np.ma.filled(cat, np.nan)
 
     return cat, lat, lon
+
 
 # Load thunderstorm severity
 
@@ -177,8 +214,11 @@ def load_roa(t):
 
     base = Path("/gws/ssde/j25b/swift/RoA")
 
-    t0 = datetime(int(year), int(month), int(day),
-                  int(hour), int(minute))
+    t0 = datetime(
+        int(year), int(month), int(day),
+        int(hour), int(minute)
+    )
+
     t1 = t0 + timedelta(minutes=15)
 
     candidates = []
@@ -201,12 +241,11 @@ def load_roa(t):
         lon = ds.variables["longitude"][:]
 
         var = ds.variables["posterior_mean"]
-        roa_raw = var[:]
 
-        scale = getattr(var, "scale_factor", 1.0)
-        offset = getattr(var, "add_offset", 0.0)
+        # netCDF4 applies scale_factor and add_offset automatically if enabled
+        roa = var[:]
 
-        roa = roa_raw * scale + offset
+        # convert masked missing values to NaN
         roa = np.ma.filled(roa, np.nan)
 
     lons, lats = np.meshgrid(lon, lat)
@@ -214,7 +253,6 @@ def load_roa(t):
     return roa, lats, lons
 
 # Convective rainfall rate
-
 def load_crr(t):
 
     year   = f"{int(t['year']):04d}"
@@ -246,18 +284,17 @@ def load_crr(t):
         lons = ds.variables["lon"][:]
 
         var = ds.variables["crr_intensity"]
-        crr_raw = var[:]
 
-        scale = getattr(var, "scale_factor", 1.0)
-        offset = getattr(var, "add_offset", 0.0)
+        # netCDF4 automatically applies scale_factor and add_offset here
+        crr = var[:]
 
-        crr = crr_raw * scale + offset
+        # convert masked fill values to NaN
         crr = np.ma.filled(crr, np.nan)
 
     return crr, lats, lons
 
 
-# MTG Lightningup
+# MTG Lightning
 
 def load_li(t):
 

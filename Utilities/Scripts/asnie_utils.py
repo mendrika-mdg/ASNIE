@@ -86,7 +86,6 @@ class GeoGrid:
     def crop(self, field):
         return field[self.y0:self.y1+1, self.x0:self.x1+1]
 
-
     def query(self, lat, lon):
         _, idx = self.tree.query([lat, lon])
         return np.unravel_index(idx, (self.Ny, self.Nx))
@@ -159,11 +158,11 @@ def field_to_objects(
 
     rows = []
 
-    for lab in range(1, n + 1):
+    for lab in range(1, n + 1): # this automatically removes background 
 
-        m = labeled == lab
+        m = labeled == lab # get all the pixels equal to the label
         n_pix = int(np.sum(m))
-
+    
         if n_pix < min_pixels:
             continue
 

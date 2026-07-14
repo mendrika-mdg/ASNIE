@@ -88,7 +88,6 @@ extent = (
     CONTEXT_LON_MAX
 )
 
-
 tag = f"thr_{threshold}".replace(".", "p")
 
 year = start["year"]
@@ -98,7 +97,6 @@ output_dir = f"/gws/ssde/j25b/swift/mendrika/asnie/database/{product}/{year}/{ta
 os.makedirs(output_dir, exist_ok=True)
 
 times = generate_time_steps(start, end)
-
 
 for t in times:
 
