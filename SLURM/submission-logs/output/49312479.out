@@ -1,0 +1,1723 @@
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 0, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T000000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 0, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T001500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 0, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T003000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 0, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T004500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 1, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T010000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 1, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T011500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 1, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T013000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 1, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T014500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 2, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T020000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 2, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T021500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 2, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T023000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 2, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T024500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 3, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T030000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 3, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T031500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 3, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T033000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 3, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T034500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 4, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T040000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 4, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T041500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 4, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T043000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 4, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T044500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 5, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T050000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 5, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T051500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 5, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T053000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 5, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T054500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 6, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T060000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 6, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T061500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 6, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T063000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 6, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T064500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 7, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T070000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 7, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T071500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 7, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T073000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 7, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T074500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 8, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T080000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 8, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T081500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 8, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T083000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 8, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T084500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 9, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T090000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 9, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T091500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 9, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T093000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 9, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T094500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 10, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T100000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 10, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T101500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 10, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T103000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 10, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T104500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 11, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T110000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 11, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T111500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 11, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T113000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 11, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T114500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 12, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T120000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 12, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T121500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 12, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T123000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 12, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T124500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 13, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T130000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 13, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T131500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 13, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T133000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 13, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T134500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 14, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T140000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 14, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T141500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 14, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T143000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 14, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T144500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 15, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T150000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 15, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T151500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 15, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T153000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 15, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T154500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 16, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T160000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 16, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T161500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 16, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T163000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 16, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T164500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 17, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T170000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 17, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T171500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 17, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T173000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 17, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T174500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 18, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T180000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 18, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T181500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 18, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T183000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 18, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T184500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 19, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T190000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 19, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T191500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 19, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T193000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 19, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T194500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 20, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T200000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 20, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T201500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 20, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T203000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 20, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T204500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 21, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T210000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 21, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T211500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 21, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T213000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 21, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T214500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 22, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T220000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 22, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T221500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 22, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T223000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 22, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T224500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 23, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T230000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 23, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T231500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 23, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T233000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 1, 'hour': 23, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231101/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231101T234500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 0, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T000000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 0, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T001500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 0, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T003000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 0, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T004500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 1, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T010000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 1, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T011500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 1, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T013000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 1, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T014500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 2, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T020000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 2, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T021500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 2, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T023000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 2, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T024500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 3, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T030000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 3, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T031500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 3, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T033000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 3, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T034500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 4, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T040000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 4, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T041500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 4, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T043000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 4, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T044500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 5, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T050000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 5, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T051500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 5, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T053000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 5, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T054500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 6, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T060000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 6, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T061500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 6, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T063000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 6, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T064500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 7, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T070000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 7, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T071500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 7, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T073000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 7, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T074500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 8, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T080000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 8, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T081500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 8, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T083000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 8, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T084500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 9, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T090000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 9, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T091500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 9, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T093000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 9, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T094500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 10, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T100000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 10, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T101500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 10, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T103000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 10, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T104500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 11, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T110000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 11, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T111500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 11, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T113000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 11, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T114500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 12, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T120000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 12, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T121500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 12, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T123000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 12, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T124500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 13, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T130000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 13, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T131500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 13, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T133000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 13, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T134500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 14, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T140000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 14, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T141500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 14, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T143000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 14, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T144500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 15, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T150000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 15, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T151500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 15, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T153000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 15, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T154500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 16, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T160000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 16, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T161500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 16, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T163000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 16, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T164500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 17, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T170000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 17, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T171500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 17, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T173000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 17, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T174500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 18, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T180000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 18, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T181500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 18, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T183000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 18, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T184500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 19, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T190000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 19, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T191500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 19, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T193000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 19, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T194500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 20, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T200000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 20, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T201500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 20, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T203000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 20, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T204500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 21, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T210000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 21, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T211500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 21, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T213000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 21, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T214500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 22, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T220000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 22, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T221500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 22, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T223000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 22, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T224500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 23, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T230000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 23, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T231500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 23, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T233000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 2, 'hour': 23, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231102/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231102T234500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 0, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T000000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 0, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T001500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 0, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T003000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 0, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T004500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 1, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T010000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 1, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T011500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 1, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T013000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 1, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T014500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 2, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T020000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 2, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T021500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 2, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T023000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 2, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T024500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 3, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T030000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 3, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T031500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 3, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T033000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 3, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T034500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 4, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T040000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 4, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T041500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 4, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T043000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 4, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T044500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 5, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T050000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 5, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T051500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 5, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T053000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 5, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T054500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 6, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T060000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 6, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T061500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 6, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T063000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 6, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T064500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 7, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T070000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 7, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T071500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 7, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T073000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 7, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T074500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 8, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T080000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 8, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T081500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 8, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T083000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 8, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T084500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 9, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T090000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 9, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T091500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 9, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T093000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 9, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T094500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 10, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T100000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 10, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T101500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 10, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T103000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 10, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T104500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 11, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T110000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 11, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T111500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 11, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T113000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 11, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T114500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 12, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T120000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 12, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T121500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 12, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T123000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 12, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T124500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 13, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T130000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 13, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T131500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 13, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T133000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 13, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T134500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 14, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T140000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 14, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T141500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 14, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T143000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 14, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T144500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 15, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T150000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 15, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T151500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 15, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T153000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 15, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T154500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 16, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T160000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 16, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T161500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 16, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T163000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 16, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T164500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 17, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T170000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 17, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T171500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 17, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T173000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 17, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T174500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 18, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T180000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 18, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T181500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 18, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T183000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 18, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T184500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 19, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T190000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 19, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T191500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 19, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T193000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 19, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T194500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 20, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T200000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 20, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T201500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 20, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T203000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 20, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T204500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 21, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T210000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 21, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T211500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 21, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T213000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 21, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T214500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 22, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T220000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 22, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T221500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 22, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T223000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 22, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T224500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 23, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T230000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 23, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T231500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 23, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T233000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 3, 'hour': 23, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231103/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231103T234500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 0, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T000000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 0, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T001500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 0, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T003000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 0, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T004500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 1, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T010000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 1, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T011500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 1, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T013000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 1, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T014500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 2, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T020000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 2, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T021500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 2, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T023000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 2, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T024500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 3, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T030000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 3, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T031500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 3, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T033000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 3, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T034500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 4, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T040000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 4, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T041500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 4, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T043000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 4, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T044500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 5, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T050000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 5, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T051500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 5, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T053000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 5, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T054500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 6, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T060000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 6, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T061500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 6, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T063000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 6, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T064500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 7, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T070000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 7, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T071500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 7, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T073000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 7, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T074500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 8, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T080000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 8, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T081500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 8, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T083000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 8, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T084500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 9, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T090000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 9, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T091500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 9, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T093000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 9, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T094500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 10, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T100000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 10, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T101500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 10, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T103000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 10, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T104500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 11, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T110000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 11, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T111500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 11, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T113000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 11, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T114500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 12, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T120000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 12, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T121500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 12, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T123000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 12, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T124500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 13, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T130000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 13, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T131500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 13, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T133000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 13, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T134500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 14, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T140000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 14, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T141500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 14, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T143000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 14, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T144500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 15, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T150000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 15, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T151500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 15, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T153000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 15, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T154500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 16, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T160000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 16, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T161500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 16, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T163000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 16, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T164500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 17, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T170000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 17, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T171500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 17, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T173000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 17, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T174500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 18, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T180000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 18, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T181500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 18, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T183000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 18, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T184500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 19, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T190000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 19, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T191500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 19, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T193000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 19, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T194500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 20, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T200000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 20, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T201500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 20, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T203000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 20, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T204500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 21, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T210000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 21, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T211500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 21, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T213000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 21, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T214500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 22, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T220000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 22, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T221500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 22, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T223000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 22, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T224500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 23, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T230000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 23, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T231500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 23, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T233000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 4, 'hour': 23, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231104/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231104T234500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 0, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T000000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 0, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T001500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 0, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T003000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 0, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T004500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 1, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T010000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 1, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T011500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 1, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T013000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 1, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T014500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 2, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T020000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 2, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T021500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 2, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T023000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 2, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T024500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 3, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T030000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 3, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T031500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 3, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T033000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 3, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T034500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 4, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T040000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 4, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T041500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 4, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T043000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 4, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T044500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 5, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T050000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 5, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T051500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 5, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T053000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 5, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T054500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 6, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T060000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 6, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T061500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 6, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T063000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 6, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T064500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 7, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T070000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 7, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T071500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 7, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T073000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 7, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T074500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 8, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T080000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 8, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T081500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 8, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T083000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 8, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T084500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 9, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T090000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 9, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T091500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 9, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T093000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 9, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T094500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 10, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T100000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 10, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T101500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 10, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T103000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 10, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T104500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 11, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T110000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 11, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T111500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 11, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T113000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 11, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T114500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 12, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T120000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 12, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T121500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 12, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T123000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 12, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T124500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 13, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T130000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 13, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T131500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 13, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T133000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 13, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T134500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 14, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T140000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 14, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T141500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 14, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T143000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 14, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T144500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 15, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T150000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 15, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T151500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 15, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T153000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 15, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T154500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 16, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T160000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 16, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T161500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 16, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T163000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 16, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T164500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 17, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T170000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 17, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T171500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 17, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T173000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 17, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T174500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 18, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T180000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 18, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T181500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 18, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T183000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 18, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T184500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 19, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T190000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 19, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T191500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 19, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T193000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 19, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T194500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 20, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T200000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 20, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T201500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 20, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T203000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 20, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T204500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 21, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T210000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 21, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T211500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 21, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T213000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 21, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T214500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 22, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T220000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 22, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T221500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 22, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T223000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 22, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T224500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 23, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T230000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 23, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T231500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 23, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T233000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 5, 'hour': 23, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231105/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231105T234500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 0, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T000000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 0, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T001500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 0, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T003000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 0, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T004500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 1, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T010000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 1, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T011500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 1, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T013000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 1, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T014500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 2, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T020000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 2, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T021500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 2, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T023000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 2, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T024500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 3, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T030000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 3, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T031500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 3, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T033000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 3, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T034500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 4, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T040000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 4, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T041500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 4, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T043000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 4, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T044500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 5, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T050000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 5, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T051500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 5, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T053000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 5, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T054500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 6, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T060000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 6, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T061500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 6, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T063000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 6, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T064500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 7, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T070000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 7, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T071500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 7, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T073000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 7, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T074500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 8, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T080000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 8, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T081500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 8, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T083000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 8, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T084500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 9, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T090000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 9, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T091500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 9, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T093000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 9, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T094500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 10, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T100000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 10, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T101500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 10, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T103000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 10, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T104500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 11, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T110000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 11, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T111500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 11, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T113000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 11, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T114500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 12, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T120000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 12, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T121500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 12, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T123000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 12, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T124500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 13, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T130000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 13, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T131500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 13, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T133000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 13, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T134500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 14, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T140000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 14, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T141500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 14, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T143000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 14, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T144500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 15, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T150000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 15, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T151500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 15, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T153000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 15, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T154500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 16, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T160000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 16, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T161500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 16, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T163000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 16, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T164500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 17, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T170000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 17, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T171500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 17, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T173000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 17, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T174500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 18, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T180000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 18, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T181500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 18, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T183000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 18, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T184500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 19, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T190000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 19, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T191500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 19, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T193000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 19, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T194500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 20, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T200000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 20, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T201500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 20, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T203000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 20, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T204500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 21, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T210000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 21, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T211500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 21, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T213000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 21, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T214500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 22, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T220000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 22, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T221500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 22, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T223000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 22, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T224500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 23, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T230000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 23, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T231500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 23, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T233000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 6, 'hour': 23, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231106/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231106T234500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 0, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T000000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 0, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T001500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 0, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T003000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 0, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T004500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 1, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T010000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 1, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T011500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 1, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T013000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 1, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T014500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 2, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T020000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 2, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T021500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 2, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T023000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 2, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T024500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 3, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T030000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 3, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T031500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 3, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T033000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 3, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T034500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 4, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T040000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 4, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T041500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 4, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T043000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 4, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T044500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 5, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T050000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 5, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T051500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 5, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T053000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 5, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T054500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 6, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T060000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 6, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T061500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 6, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T063000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 6, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T064500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 7, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T070000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 7, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T071500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 7, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T073000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 7, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T074500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 8, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T080000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 8, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T081500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 8, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T083000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 8, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T084500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 9, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T090000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 9, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T091500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 9, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T093000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 9, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T094500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 10, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T100000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 10, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T101500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 10, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T103000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 10, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T104500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 11, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T110000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 11, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T111500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 11, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T113000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 11, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T114500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 12, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T120000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 12, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T121500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 12, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T123000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 12, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T124500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 13, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T130000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 13, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T131500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 13, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T133000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 13, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T134500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 14, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T140000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 14, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T141500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 14, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T143000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 14, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T144500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 15, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T150000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 15, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T151500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 15, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T153000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 15, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T154500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 16, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T160000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 16, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T161500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 16, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T163000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 16, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T164500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 17, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T170000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 17, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T171500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 17, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T173000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 17, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T174500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 18, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T180000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 18, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T181500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 18, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T183000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 18, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T184500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 19, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T190000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 19, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T191500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 19, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T193000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 19, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T194500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 20, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T200000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 20, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T201500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 20, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T203000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 20, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T204500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 21, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T210000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 21, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T211500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 21, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T213000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 21, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T214500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 22, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T220000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 22, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T221500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 22, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T223000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 22, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T224500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 23, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T230000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 23, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T231500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 23, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T233000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 7, 'hour': 23, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231107/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231107T234500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 0, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T000000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 0, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T001500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 0, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T003000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 0, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T004500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 1, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T010000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 1, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T011500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 1, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T013000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 1, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T014500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 2, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T020000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 2, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T021500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 2, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T023000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 2, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T024500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 3, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T030000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 3, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T031500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 3, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T033000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 3, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T034500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 4, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T040000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 4, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T041500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 4, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T043000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 4, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T044500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 5, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T050000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 5, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T051500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 5, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T053000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 5, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T054500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 6, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T060000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 6, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T061500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 6, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T063000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 6, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T064500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 7, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T070000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 7, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T071500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 7, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T073000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 7, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T074500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 8, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T080000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 8, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T081500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 8, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T083000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 8, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T084500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 9, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T090000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 9, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T091500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 9, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T093000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 9, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T094500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 10, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T100000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 10, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T101500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 10, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T103000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 10, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T104500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 11, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T110000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 11, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T111500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 11, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T113000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 11, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T114500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 12, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T120000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 12, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T121500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 12, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T123000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 12, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T124500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 13, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T130000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 13, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T131500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 13, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T133000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 13, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T134500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 14, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T140000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 14, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T141500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 14, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T143000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 14, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T144500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 15, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T150000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 15, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T151500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 15, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T153000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 15, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T154500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 16, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T160000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 16, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T161500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 16, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T163000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 16, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T164500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 17, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T170000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 17, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T171500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 17, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T173000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 17, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T174500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 18, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T180000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 18, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T181500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 18, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T183000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 18, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T184500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 19, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T190000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 19, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T191500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 19, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T193000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 19, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T194500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 20, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T200000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 20, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T201500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 20, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T203000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 20, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T204500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 21, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T210000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 21, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T211500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 21, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T213000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 21, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T214500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 22, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T220000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 22, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T221500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 22, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T223000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 22, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T224500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 23, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T230000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 23, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T231500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 23, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T233000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 8, 'hour': 23, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231108/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231108T234500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 0, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T000000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 0, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T001500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 0, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T003000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 0, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T004500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 1, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T010000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 1, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T011500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 1, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T013000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 1, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T014500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 2, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T020000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 2, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T021500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 2, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T023000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 2, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T024500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 3, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T030000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 3, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T031500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 3, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T033000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 3, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T034500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 4, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T040000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 4, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T041500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 4, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T043000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 4, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T044500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 5, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T050000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 5, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T051500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 5, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T053000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 5, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T054500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 6, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T060000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 6, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T061500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 6, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T063000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 6, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T064500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 7, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T070000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 7, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T071500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 7, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T073000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 7, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T074500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 8, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T080000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 8, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T081500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 8, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T083000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 8, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T084500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 9, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T090000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 9, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T091500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 9, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T093000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 9, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T094500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 10, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T100000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 10, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T101500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 10, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T103000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 10, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T104500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 11, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T110000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 11, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T111500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 11, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T113000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 11, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T114500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 12, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T120000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 12, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T121500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 12, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T123000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 12, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T124500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 13, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T130000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 13, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T131500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 13, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T133000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 13, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T134500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 14, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T140000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 14, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T141500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 14, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T143000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 14, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T144500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 15, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T150000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 15, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T151500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 15, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T153000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 15, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T154500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 16, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T160000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 16, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T161500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 16, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T163000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 16, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T164500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 17, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T170000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 17, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T171500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 17, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T173000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 17, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T174500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 18, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T180000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 18, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T181500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 18, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T183000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 18, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T184500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 19, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T190000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 19, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T191500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 19, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T193000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 19, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T194500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 20, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T200000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 20, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T201500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 20, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T203000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 20, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T204500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 21, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T210000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 21, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T211500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 21, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T213000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 21, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T214500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 22, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T220000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 22, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T221500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 22, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T223000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 22, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T224500Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 23, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20231109/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20231109T230000Z.nc
+Processing: {'year': 2023, 'month': 11, 'day': 9, 'hour': 23, 'minute': 15}

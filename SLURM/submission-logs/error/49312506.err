@@ -1,0 +1,17 @@
+Traceback (most recent call last):
+  File "/home/users/mendrika/ASNIE/Analysis/paper/dwdts_vs_crr.py", line 112, in <module>
+    data_ts, lats_ts, lons_ts = load_ts(t)
+                                ^^^^^^^^^^
+  File "/home/users/mendrika/ASNIE/Utilities/Scripts/asnie_loaders.py", line 178, in load_ts
+    ds = Dataset("inmemory.nc", memory=f.read())
+                                       ^^^^^^^^
+  File "/apps/jasmin/jaspy/miniforge_envs/jaspy3.11/mf3-23.11.0-0/envs/jaspy3.11-mf3-23.11.0-0-v20240815/lib/python3.11/bz2.py", line 164, in read
+    return self._buffer.read(size)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/apps/jasmin/jaspy/miniforge_envs/jaspy3.11/mf3-23.11.0-0/envs/jaspy3.11-mf3-23.11.0-0-v20240815/lib/python3.11/_compression.py", line 118, in readall
+    while data := self.read(sys.maxsize):
+                  ^^^^^^^^^^^^^^^^^^^^^^
+  File "/apps/jasmin/jaspy/miniforge_envs/jaspy3.11/mf3-23.11.0-0/envs/jaspy3.11-mf3-23.11.0-0-v20240815/lib/python3.11/_compression.py", line 103, in read
+    data = self._decompressor.decompress(rawblock, size)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+OSError: Invalid data stream

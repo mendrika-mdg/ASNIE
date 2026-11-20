@@ -1,0 +1,96 @@
+
+Merging core-vs-crr / core
+CA: 7453 CSV files
+EA: 6753 CSV files
+SA: 7984 CSV files
+WA: 2946 CSV files
+Saved: /gws/ssde/j25b/swift/mendrika/asnie/paper/core-vs-crr/core.parquet
+Rows: 2,341,299
+
+Merging core-vs-crr / crr
+CA: 7453 CSV files
+EA: 6753 CSV files
+SA: 7984 CSV files
+WA: 2946 CSV files
+Saved: /gws/ssde/j25b/swift/mendrika/asnie/paper/core-vs-crr/crr.parquet
+Rows: 1,141,280
+
+Merging core-vs-roa / core
+CA: 78152 CSV files
+EA: 69523 CSV files
+SA: 83265 CSV files
+WA: 58075 CSV files
+Saved: /gws/ssde/j25b/swift/mendrika/asnie/paper/core-vs-roa/core.parquet
+Rows: 27,734,335
+
+Merging core-vs-roa / roa
+CA: 78152 CSV files
+EA: 69523 CSV files
+SA: 83265 CSV files
+WA: 58075 CSV files
+Saved: /gws/ssde/j25b/swift/mendrika/asnie/paper/core-vs-roa/roa.parquet
+Rows: 5,950,027
+
+Merging rdt-vs-crr / crr
+CA: 7406 CSV files
+EA: 7510 CSV files
+SA: 9150 CSV files
+WA: 2896 CSV files
+Saved: /gws/ssde/j25b/swift/mendrika/asnie/paper/rdt-vs-crr/crr.parquet
+Rows: 1,205,818
+
+Merging rdt-vs-crr / rdt
+CA: 7406 CSV files
+EA: 7510 CSV files
+SA: 9150 CSV files
+WA: 2896 CSV files
+Saved: /gws/ssde/j25b/swift/mendrika/asnie/paper/rdt-vs-crr/rdt.parquet
+Rows: 1,897,802
+
+Merging rdt-vs-roa / rdt
+CA: 10623 CSV files
+EA: 12763 CSV files
+SA: 13315 CSV files
+WA: 4635 CSV files
+Saved: /gws/ssde/j25b/swift/mendrika/asnie/paper/rdt-vs-roa/rdt.parquet
+Rows: 2,920,249
+
+Merging rdt-vs-roa / roa
+CA: 10623 CSV files
+EA: 12763 CSV files
+SA: 13315 CSV files
+WA: 4635 CSV files
+Saved: /gws/ssde/j25b/swift/mendrika/asnie/paper/rdt-vs-roa/roa.parquet
+Rows: 864,949
+
+Merging ts-vs-crr / crr
+CA: 4734 CSV files
+EA: 3877 CSV files
+SA: 2151 CSV files
+WA: 2901 CSV files
+Saved: /gws/ssde/j25b/swift/mendrika/asnie/paper/ts-vs-crr/crr.parquet
+Rows: 566,855
+
+Merging ts-vs-crr / ts
+CA: 4734 CSV files
+EA: 3877 CSV files
+SA: 2151 CSV files
+WA: 2901 CSV files
+Saved: /gws/ssde/j25b/swift/mendrika/asnie/paper/ts-vs-crr/ts.parquet
+Rows: 502,612
+
+Merging ts-vs-roa / roa
+CA: 17170 CSV files
+EA: 16918 CSV files
+SA: 13554 CSV files
+WA: 11542 CSV files
+Saved: /gws/ssde/j25b/swift/mendrika/asnie/paper/ts-vs-roa/roa.parquet
+Rows: 1,195,442
+
+Merging ts-vs-roa / ts
+CA: 17170 CSV files
+EA: 16918 CSV files
+SA: 13554 CSV files
+WA: 11542 CSV files
+Saved: /gws/ssde/j25b/swift/mendrika/asnie/paper/ts-vs-roa/ts.parquet
+Rows: 2,299,331

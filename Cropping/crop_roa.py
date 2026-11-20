@@ -28,8 +28,11 @@ start = str_to_time_dict(start_str)
 end   = str_to_time_dict(end_str)
 
 # Madagascar crop indices (precomputed)
+# y0, y1 = 519, 1073
+# x0, x1 = 2295, 2664
+
 y0, y1 = 519, 1073
-x0, x1 = 2295, 2664
+x0, x1 = 2203, 2757
 
 times = generate_time_steps(start, end)
 

@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "/home/users/mendrika/ASNIE/Analysis/paper/core_vs_crr.py", line 111, in <module>
+    data_core, lats_core, lons_core = load_core(t)
+                                      ^^^^^^^^^^^^
+  File "/home/users/mendrika/ASNIE/Utilities/Scripts/asnie_loaders.py", line 48, in load_core
+    with Dataset(path) as ds:
+         ^^^^^^^^^^^^^
+  File "src/netCDF4/_netCDF4.pyx", line 2470, in netCDF4._netCDF4.Dataset.__init__
+  File "src/netCDF4/_netCDF4.pyx", line 2107, in netCDF4._netCDF4._ensure_nc_success
+OSError: [Errno -101] NetCDF: HDF error: '/gws/ssde/j25b/cocoon/SSA_domain/ch9_wavelet/2023/12/202312020300.nc'

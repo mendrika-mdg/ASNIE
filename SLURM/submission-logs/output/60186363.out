@@ -1,0 +1,37 @@
+Creating training data
+Candidate hourly samples: 10936
+Valid samples: 500 / 511
+Valid samples: 1000 / 1011
+Valid samples: 1500 / 1511
+Valid samples: 2000 / 2016
+Valid samples: 2500 / 2516
+Valid samples: 3000 / 3016
+Valid samples: 3500 / 3516
+Valid samples: 4000 / 4022
+Valid samples: 4500 / 4528
+Valid samples: 5000 / 5038
+Valid samples: 5500 / 5543
+Valid samples: 6000 / 6053
+Valid samples: 6500 / 6553
+Valid samples: 7000 / 7053
+Valid samples: 7500 / 7558
+Valid samples: 8000 / 8058
+Valid samples: 8500 / 8558
+Valid samples: 9000 / 9058
+Valid samples: 9500 / 9558
+Valid samples: 10000 / 10069
+Valid samples: 10500 / 10574
+Training shapes:
+X: (10862, 3, 128, 128)
+y: (10862, 3, 128, 128)
+Creating test data
+Candidate hourly samples: 2928
+Valid samples: 500 / 500
+Valid samples: 1000 / 1000
+Valid samples: 1500 / 1500
+Valid samples: 2000 / 2000
+Valid samples: 2500 / 2505
+Test shapes:
+X: (2920, 3, 128, 128)
+y: (2920, 3, 128, 128)
+Finished

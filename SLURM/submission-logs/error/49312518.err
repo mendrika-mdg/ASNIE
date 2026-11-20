@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "/home/users/mendrika/ASNIE/Analysis/paper/core_vs_crr.py", line 119, in <module>
+    grid_crr  = GeoGrid(lats_crr,  lons_crr,  *extent)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/mendrika/ASNIE/Utilities/Scripts/asnie_utils.py", line 25, in __init__
+    self._crop_with_area(
+  File "/home/users/mendrika/ASNIE/Utilities/Scripts/asnie_utils.py", line 64, in _crop_with_area
+    y0, y1 = rows[0], rows[-1]
+             ~~~~^^^
+IndexError: index 0 is out of bounds for axis 0 with size 0

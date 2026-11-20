@@ -1,0 +1,64 @@
+
+Merging core-vs-li / core
+CA / threshold=0.0: 5013 CSV files
+CA / threshold=0.032: 5011 CSV files
+CA / threshold=1.056: 5011 CSV files
+EA / threshold=0.0: 4431 CSV files
+EA / threshold=0.032: 4412 CSV files
+EA / threshold=1.056: 4363 CSV files
+SA / threshold=0.0: 1899 CSV files
+SA / threshold=0.032: 1896 CSV files
+SA / threshold=1.056: 1883 CSV files
+WA / threshold=0.0: 7681 CSV files
+WA / threshold=0.032: 7681 CSV files
+WA / threshold=1.056: 7658 CSV files
+Saved: /gws/ssde/j25b/swift/mendrika/asnie/paper/core-vs-li/core.parquet
+Rows: 698,461
+
+Merging core-vs-li / li
+CA / threshold=0.0: 5013 CSV files
+CA / threshold=0.032: 5011 CSV files
+CA / threshold=1.056: 5011 CSV files
+EA / threshold=0.0: 4431 CSV files
+EA / threshold=0.032: 4412 CSV files
+EA / threshold=1.056: 4363 CSV files
+SA / threshold=0.0: 1899 CSV files
+SA / threshold=0.032: 1896 CSV files
+SA / threshold=1.056: 1883 CSV files
+WA / threshold=0.0: 7681 CSV files
+WA / threshold=0.032: 7681 CSV files
+WA / threshold=1.056: 7658 CSV files
+Saved: /gws/ssde/j25b/swift/mendrika/asnie/paper/core-vs-li/li.parquet
+Rows: 2,059,726
+
+Merging ts-vs-li / li
+CA / threshold=0.0: 11506 CSV files
+CA / threshold=0.032: 11506 CSV files
+CA / threshold=1.056: 11502 CSV files
+EA / threshold=0.0: 8501 CSV files
+EA / threshold=0.032: 8498 CSV files
+EA / threshold=1.056: 8306 CSV files
+SA / threshold=0.0: 5680 CSV files
+SA / threshold=0.032: 5680 CSV files
+SA / threshold=1.056: 5629 CSV files
+WA / threshold=0.0: 11420 CSV files
+WA / threshold=0.032: 11420 CSV files
+WA / threshold=1.056: 11343 CSV files
+Saved: /gws/ssde/j25b/swift/mendrika/asnie/paper/ts-vs-li/li.parquet
+Rows: 5,950,460
+
+Merging ts-vs-li / ts
+CA / threshold=0.0: 11506 CSV files
+CA / threshold=0.032: 11506 CSV files
+CA / threshold=1.056: 11502 CSV files
+EA / threshold=0.0: 8501 CSV files
+EA / threshold=0.032: 8498 CSV files
+EA / threshold=1.056: 8306 CSV files
+SA / threshold=0.0: 5680 CSV files
+SA / threshold=0.032: 5680 CSV files
+SA / threshold=1.056: 5629 CSV files
+WA / threshold=0.0: 11420 CSV files
+WA / threshold=0.032: 11420 CSV files
+WA / threshold=1.056: 11343 CSV files
+Saved: /gws/ssde/j25b/swift/mendrika/asnie/paper/ts-vs-li/ts.parquet
+Rows: 4,148,892

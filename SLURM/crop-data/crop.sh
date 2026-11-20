@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --job-name=crop-core-mdg
+#SBATCH --job-name=crop-roa-mdg
 #SBATCH --time=24:00:00
 #SBATCH --mem=64G
 #SBATCH --qos=standard
@@ -22,6 +22,6 @@ fi
 start="$1"
 end="$2"
 
-python /home/users/mendrika/ASNIE/Cropping/crop_crr.py \
+python /home/users/mendrika/ASNIE/Cropping/crop_roa.py \
     "$start" \
     "$end"

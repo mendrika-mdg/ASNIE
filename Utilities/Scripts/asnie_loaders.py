@@ -48,7 +48,7 @@ def load_core(t):
         with Dataset(path) as ds:
             cores = ds["tir"][0]
 
-        geo = np.load("/gws/nopw/j04/cocoon/SSA_domain/lat_lon_2268_2080.npz")
+        geo = np.load("/gws/ssde/j25b/cocoon/SSA_domain/lat_lon_2268_2080.npz")
         lons = geo["lon"]
         lats = geo["lat"]
 
@@ -80,7 +80,6 @@ def load_core(t):
 
 
 # Rapid developing thunderstorm
-
 def load_rdt(t, domain="WestAfrica"):
 
     year   = int(t["year"])
@@ -330,3 +329,42 @@ def load_li(t):
         flash = np.ma.filled(flash, np.nan)
 
     return flash, lats, lons
+
+
+def load_rdt_object(t):
+
+    year = int(t["year"])
+    month = f"{int(t['month']):02d}"
+    day = f"{int(t['day']):02d}"
+    hour = f"{int(t['hour']):02d}"
+    minute = f"{int(t['minute']):02d}"
+
+    date = f"{year}{month}{day}"
+    time = f"{hour}{minute}00"
+
+    file_path = (
+        Path("/gws/ssde/j25b/swift/WISER-EWSA/Leeds_RDT/data")
+        / date
+        / "RDT"
+        / f"S_NWC_RDT-CW_MSG3_Africa-VISIR_{date}T{time}Z.nc"
+    )
+
+    if not file_path.exists():
+        raise FileNotFoundError(f"RDT file not found: {file_path}")
+
+    with Dataset(file_path) as ds:
+
+        rdt = {
+            "id": np.asarray(ds["NumIdCell"][:]),
+            "conv_type": np.asarray(ds["ConvType"][:]),
+            "phase_life": np.asarray(ds["PhaseLife"][:]),
+            "severity_type": np.asarray(ds["SeverityType"][:]),
+            "severity_intensity": np.asarray(ds["SeverityIntensity"][:]),
+            "lat": np.asarray(ds["LatG"][:, 0]),
+            "lon": np.asarray(ds["LonG"][:, 0]),
+            "lat_contour": np.asarray(ds["LatContour"][:, 0, :]),
+            "lon_contour": np.asarray(ds["LonContour"][:, 0, :]),
+            "surface": np.asarray(ds["Surface"][:, 0])
+        }
+
+    return rdt

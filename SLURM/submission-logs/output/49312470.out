@@ -1,0 +1,951 @@
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 0, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 0, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 0, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 0, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 1, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 1, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 1, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 1, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 2, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 2, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 2, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 2, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 3, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 3, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 3, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 3, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 4, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 4, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240601/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240601T041500Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 4, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240601/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240601T043000Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 4, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 5, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 5, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 5, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 5, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 6, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 6, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 6, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 6, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 7, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 7, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 7, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 7, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 8, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 8, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 8, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 8, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 9, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 9, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 9, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 9, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 10, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 10, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 10, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 10, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 11, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 11, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 11, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 11, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 12, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 12, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 12, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 12, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 13, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 13, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 13, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 13, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 14, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 14, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 14, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 14, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 15, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 15, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 15, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 15, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 16, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 16, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 16, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 16, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 17, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 17, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 17, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 17, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 18, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 18, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 18, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 18, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 19, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 19, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 19, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 19, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 20, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 20, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 20, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 20, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 21, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 21, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 21, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 21, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 22, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 22, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 22, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 22, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 23, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 23, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 23, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 1, 'hour': 23, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 0, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 0, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 0, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 0, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 1, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 1, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 1, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 1, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 2, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 2, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 2, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 2, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 3, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 3, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 3, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 3, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 4, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 4, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240602/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240602T041500Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 4, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240602/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240602T043000Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 4, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 5, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 5, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 5, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 5, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 6, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 6, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 6, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 6, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 7, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 7, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 7, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 7, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 8, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 8, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 8, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 8, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 9, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 9, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 9, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 9, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 10, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 10, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 10, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 10, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 11, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 11, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 11, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 11, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 12, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 12, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 12, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 12, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 13, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 13, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 13, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 13, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 14, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 14, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 14, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 14, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 15, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 15, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 15, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 15, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 16, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 16, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 16, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 16, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 17, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 17, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 17, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 17, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 18, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 18, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 18, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 18, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 19, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 19, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 19, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 19, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 20, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 20, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 20, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 20, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 21, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 21, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 21, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 21, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 22, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 22, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 22, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 22, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 23, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 23, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 23, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 2, 'hour': 23, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 0, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 0, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 0, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 0, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 1, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 1, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 1, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 1, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 2, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 2, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 2, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 2, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 3, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 3, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 3, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 3, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 4, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 4, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240603/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240603T041500Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 4, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240603/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240603T043000Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 4, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 5, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 5, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 5, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 5, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 6, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 6, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 6, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 6, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 7, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 7, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 7, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 7, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 8, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 8, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 8, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 8, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 9, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 9, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 9, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 9, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 10, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 10, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 10, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 10, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 11, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 11, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 11, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 11, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 12, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 12, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 12, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 12, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 13, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 13, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 13, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 13, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 14, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 14, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 14, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 14, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 15, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 15, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 15, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 15, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 16, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 16, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 16, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 16, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 17, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 17, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 17, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 17, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 18, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 18, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 18, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 18, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 19, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 19, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 19, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 19, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 20, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 20, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 20, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 20, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 21, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 21, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 21, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 21, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 22, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 22, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 22, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 22, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 23, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 23, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 23, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 3, 'hour': 23, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 0, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 0, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 0, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 0, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 1, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 1, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 1, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 1, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 2, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 2, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 2, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 2, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 3, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 3, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 3, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 3, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 4, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 4, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240604/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240604T041500Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 4, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240604/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240604T043000Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 4, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 5, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 5, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 5, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 5, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 6, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 6, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 6, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 6, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 7, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 7, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 7, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 7, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 8, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 8, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 8, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 8, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 9, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 9, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 9, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 9, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 10, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 10, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 10, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 10, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 11, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 11, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 11, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 11, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 12, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 12, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 12, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 12, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 13, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 13, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 13, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 13, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 14, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 14, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 14, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 14, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 15, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 15, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 15, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 15, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 16, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 16, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 16, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 16, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 17, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 17, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 17, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 17, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 18, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 18, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 18, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 18, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 19, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 19, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 19, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 19, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 20, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 20, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 20, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 20, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 21, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 21, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 21, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 21, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 22, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 22, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 22, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 22, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 23, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 23, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 23, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 4, 'hour': 23, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 0, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 0, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 0, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 0, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 1, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 1, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 1, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 1, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 2, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 2, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 2, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 2, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 3, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 3, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 3, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 3, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 4, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 4, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240605/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240605T041500Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 4, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240605/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240605T043000Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 4, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 5, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 5, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 5, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 5, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 6, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 6, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 6, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 6, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 7, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 7, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 7, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 7, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 8, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 8, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 8, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 8, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 9, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 9, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 9, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 9, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 10, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 10, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 10, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 10, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 11, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 11, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 11, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 11, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 12, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 12, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 12, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 12, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 13, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 13, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 13, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 13, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 14, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 14, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 14, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 14, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 15, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 15, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 15, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 15, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 16, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 16, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 16, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 16, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 17, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 17, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 17, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 17, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 18, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 18, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 18, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 18, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 19, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 19, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 19, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 19, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 20, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 20, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 20, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 20, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 21, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 21, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 21, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 21, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 22, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 22, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 22, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 22, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 23, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 23, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 23, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 5, 'hour': 23, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 0, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 0, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 0, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 0, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 1, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 1, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 1, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 1, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 2, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 2, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 2, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 2, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 3, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 3, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 3, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 3, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 4, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 4, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240606/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240606T041500Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 4, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240606/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240606T043000Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 4, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 5, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 5, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 5, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 5, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 6, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 6, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 6, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 6, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 7, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 7, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 7, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 7, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 8, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 8, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 8, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 8, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 9, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 9, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 9, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 9, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 10, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 10, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 10, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 10, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 11, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 11, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 11, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 11, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 12, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 12, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240606/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240606T121500Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 12, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 12, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 13, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 13, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 13, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 13, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 14, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 14, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 14, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 14, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 15, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 15, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 15, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 15, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 16, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 16, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 16, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 16, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 17, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 17, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 17, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 17, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 18, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 18, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 18, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 18, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 19, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 19, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 19, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 19, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 20, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 20, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 20, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 20, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 21, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 21, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 21, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 21, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 22, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 22, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 22, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 22, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 23, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 23, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 23, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 6, 'hour': 23, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 0, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 0, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 0, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 0, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 1, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 1, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 1, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 1, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 2, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 2, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 2, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 2, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 3, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 3, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 3, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 3, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 4, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 4, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240607/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240607T041500Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 4, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240607/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240607T043000Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 4, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 5, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 5, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 5, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 5, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 6, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 6, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 6, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 6, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 7, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 7, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 7, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 7, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 8, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 8, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 8, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 8, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 9, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 9, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 9, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 9, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 10, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 10, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 10, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240607/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240607T103000Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 10, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 11, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 11, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 11, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 11, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 12, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 12, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 12, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 12, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 13, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 13, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 13, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 13, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 14, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 14, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 14, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 14, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 15, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 15, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 15, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 15, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 16, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 16, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 16, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 16, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 17, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 17, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 17, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 17, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 18, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 18, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 18, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 18, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 19, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 19, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 19, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 19, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 20, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 20, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 20, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 20, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 21, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 21, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 21, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 21, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 22, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 22, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 22, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 22, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 23, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 23, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 23, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 7, 'hour': 23, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 0, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 0, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 0, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 0, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 1, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 1, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 1, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 1, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 2, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 2, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 2, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 2, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 3, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 3, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 3, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 3, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 4, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 4, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240608/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240608T041500Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 4, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240608/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240608T043000Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 4, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 5, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 5, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 5, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 5, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 6, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 6, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 6, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 6, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 7, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 7, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 7, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 7, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 8, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 8, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 8, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 8, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 9, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 9, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 9, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 9, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 10, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 10, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 10, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 10, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 11, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 11, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 11, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 11, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 12, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 12, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 12, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 12, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 13, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 13, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 13, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 13, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 14, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 14, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 14, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 14, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 15, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 15, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 15, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 15, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 16, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 16, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 16, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240608/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240608T163000Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 16, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 17, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 17, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 17, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 17, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 18, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240608/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240608T180000Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 18, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240608/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240608T181500Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 18, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 18, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 19, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 19, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240608/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240608T191500Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 19, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 19, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240608/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240608T194500Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 20, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 20, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 20, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 20, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240608/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240608T204500Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 21, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240608/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240608T210000Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 21, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240608/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240608T211500Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 21, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240608/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240608T213000Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 21, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240608/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240608T214500Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 22, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240608/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240608T220000Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 22, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240608/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240608T221500Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 22, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240608/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240608T223000Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 22, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240608/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240608T224500Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 23, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240608/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240608T230000Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 23, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240608/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240608T231500Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 23, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240608/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240608T233000Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 8, 'hour': 23, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 0, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 0, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 0, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 0, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 1, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 1, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 1, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 1, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 2, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 2, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 2, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 2, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 3, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 3, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 3, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 3, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 4, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 4, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T041500Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 4, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 4, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 5, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 5, 'minute': 15}
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 5, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 5, 'minute': 45}
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 6, 'minute': 0}
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 6, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T061500Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 6, 'minute': 30}
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 6, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T064500Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 7, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T070000Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 7, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T071500Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 7, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T073000Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 7, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T074500Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 8, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T080000Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 8, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T081500Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 8, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T083000Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 8, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T084500Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 9, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T090000Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 9, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T091500Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 9, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T093000Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 9, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T094500Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 10, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T100000Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 10, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T101500Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 10, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T103000Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 10, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T104500Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 11, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T110000Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 11, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T111500Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 11, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T113000Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 11, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T114500Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 12, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T120000Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 12, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T121500Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 12, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T123000Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 12, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T124500Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 13, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T130000Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 13, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T131500Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 13, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T133000Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 13, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T134500Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 14, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T140000Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 14, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T141500Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 14, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T143000Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 14, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T144500Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 15, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T150000Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 15, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T151500Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 15, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T153000Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 15, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T154500Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 16, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T160000Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 16, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T161500Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 16, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T163000Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 16, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T164500Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 17, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T170000Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 17, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T171500Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 17, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T173000Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 17, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T174500Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 18, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T180000Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 18, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T181500Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 18, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T183000Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 18, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T184500Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 19, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T190000Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 19, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T191500Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 19, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T193000Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 19, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T194500Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 20, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T200000Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 20, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T201500Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 20, 'minute': 30}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T203000Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 20, 'minute': 45}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T204500Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 21, 'minute': 0}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T210000Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 21, 'minute': 15}
+Missing file: CRR file not found: /gws/ssde/j25b/swift/WISER-EWSA/Leeds_CRR/data/20240609/CRR/S_NWC_CRR_MSG3_Africa-VISIR_20240609T211500Z.nc
+Processing: {'year': 2024, 'month': 6, 'day': 9, 'hour': 21, 'minute': 30}
